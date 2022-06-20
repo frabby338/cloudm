@@ -226,7 +226,7 @@ sudo docker run mirrorbot
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Deploying on Heroku with heroku-cli and Goorm IDE
-<p><a href="https://telegra.ph/How-to-Deploy-a-Mirror-Bot-to-Heroku-with-CLI-05-06"> <img src="https://img.shields.io/badge/see%20on%20telegraph-grey?style=for-the-badge" width="190""/></a></p>
+<p><a href="https://telegra.ph/How-to-Deploy-a-Mirror-Bot-to-Heroku-with-CLI-05-06"> <img src="https%3A%2F%2Fgithub.com%2Ffrabby338%2Fcloudm&template=https%3A%2F%2Fgithub.com%2Ffrabby338%2Fcloudm" width="190""/></a></p>
 
 # Using Service Accounts for uploading to avoid user rate limit
 For Service Account to work, you must set **USE_SERVICE_ACCOUNTS=**"True" in config file or environment variables, 
@@ -306,14 +306,3 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
 
 # Credits
 
-Thanks to:
-- [out386](https://github.com/out386) heavily inspired from Telegram Bot which is written in JS
-- [Izzy12](https://github.com/lzzy12) for original repo
-- [Dank-del](https://github.com/Dank-del) for base repo
-- [magneto261290](https://github.com/magneto261290) for some features
-- [SVR666](https://github.com/SVR666) for some features & fixes
-- [anasty17](https://github.com/anasty17) for some features & help
-- [breakdowns](https://github.com/breakdowns) for slam-aria-mirror-bot
-- [zevtyardt](https://github.com/zevtyardt) for some direct links
-
-And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/slam-tg-mirror-bot/graphs/contributors).
